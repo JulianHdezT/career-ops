@@ -1,0 +1,55 @@
+# Evaluation Report: Product Manager, Claude Tag @ Anthropic
+
+**Date:** 2026-09-07
+**Report #:** 070
+**Score:** 1.0/5.0
+**Status:** SKIP
+**URL:** https://job-boards.greenhouse.io/anthropic/jobs/5251866008
+**PDF:** ❌
+**Legitimacy:** Tier 1 (Official Company Portal)
+
+---
+
+## A. Role Match: 1.0/5.0
+**The Gap:** This is a **Product Management (PM)** role requiring 8+ years of specific PM experience, strategy, and roadmap management. Julian is a **Senior Software Engineer** with 15 years of development experience. While he has experience collaborating with Product Owners, he does not have the professional track record as a PM.
+
+- **Required:** 8+ years PM experience, platform integrations, ecosystem products.
+- **Actual:** 15 years .NET/Full-stack engineering.
+- **Verdict:** Complete functional mismatch.
+
+## B. North Star Alignment: 1.0/5.0
+**Target:** Senior .NET Developer / Senior Software Engineer.
+**Role:** Product Manager.
+This role is not an engineering role; it is a leadership/strategy role focused on product definition. It does not align with Julian's professional identity or target career path.
+
+## C. Compensation: 5.0/5.0
+**JD Range:** $385,000 - $460,000 USD.
+**User Target:** $78,000 - $95,000 USD.
+The compensation is vastly superior to the user's targets, but the role mismatch makes this irrelevant.
+
+## D. Culture & Environment: 2.0/5.0
+**Context:** Anthropic is a high-intensity AI research and product lab.
+**User Fit:** Julian's background is in enterprise healthcare and manufacturing systems. While he excels in business-critical reliability, the "AI product frontier" culture of Anthropic is significantly different from the stable enterprise environments he has operated in.
+
+## E. Red Flags: None
+No specific red flags in the JD; it is a standard high-tier PM posting.
+
+## F. Global Summary
+This is a high-profile role at a leading AI company, but it is for a **Product Manager**, not an **Engineer**. There is no overlap between the required experience (8+ years PM) and the candidate's profile (15 years .NET Dev).
+
+**Recommendation: SKIP.**
+
+---
+
+## G. Posting Legitimacy
+**Tier 1:** Official Greenhouse board for Anthropic. Verified active.
+
+## Machine Summary
+```yaml
+company: anthropic
+role: Product Manager, Claude Tag
+score: 1.0
+status: SKIP
+date: 2026-09-07
+num: 070
+```

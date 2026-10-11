@@ -1,0 +1,58 @@
+# Evaluation Report: Product Manager, Safeguards Rare Harms @ Anthropic
+
+**Date:** 2026-09-07
+**Score:** 1.6/5
+**URL:** https://job-boards.greenhouse.io/anthropic/jobs/5139628008
+**PDF:** ❌
+**Legitimacy:** Tier 1 (Verified)
+
+---
+
+## A. Fit (Match)
+**Score: 1.0/5**
+- **Requirement:** Professional Product Management experience (5+ years), roadmapping, and strategic oversight of AI safety protections.
+- **Candidate:** Senior .NET Developer with 15 years of software engineering experience.
+- **Gap:** The role is a specialized Product Management position focused on AI Safeguards and "Rare Harms". The candidate is a technical implementer (Developer), not a product strategist. While the candidate has experience bridging business and engineering, they lack the formal PM track record and the specific AI/ML safety domain expertise required.
+
+## B. North Star
+**Score: 1.0/5**
+- **North Star:** Senior .NET / Software Engineer roles focusing on reliability and enterprise systems.
+- **Alignment:** Zero. This is a non-engineering role (Product Management) in a highly specialized AI safety domain.
+
+## C. Compensation
+**Score: 5.0/5**
+- **Offer:** $305,000 - $385,000 USD.
+- **Target:** $78,000 - $95,000 USD.
+- **Verdict:** Compensation is significantly above the candidate's target range.
+
+## D. Culture & Values
+**Score: 3.0/5**
+- **Anthropic:** Focuses on AI safety, managing "determined adversaries", and rigorous technical trade-offs for high-stakes systems.
+- **Candidate:** Experienced in "business critical" environments (Healthcare, Finance) where reliability and stability are paramount.
+- **Alignment:** There is a conceptual alignment regarding the importance of reliability in critical systems, but the operational culture of an AI safety lab differs significantly from enterprise .NET development.
+
+## E. Red Flags
+**Score: 5.0/5**
+- No red flags detected in the job posting.
+
+## F. Global Summary
+**Score: 1.6/5**
+- **Verdict:** **DO NOT APPLY.**
+- **Reasoning:** Complete role mismatch. The candidate is a Senior Software Engineer, but this is a Product Manager role. Even with strong technical skills, the core responsibilities (strategy, product roadmap, safety evaluations) are outside the candidate's professional profile.
+
+## G. Posting Legitimacy
+**Tier 1 (Verified)**
+- Posted on official Greenhouse board for Anthropic.
+- Clear compensation, detailed responsibilities, and verified company identity.
+
+---
+
+## Machine Summary
+```yaml
+company: Anthropic
+role: Product Manager, Safeguards Rare Harms
+score: 1.6
+status: SKIP
+pdf: false
+legitimacy: Tier 1
+```
